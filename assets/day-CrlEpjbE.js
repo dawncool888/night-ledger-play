@@ -1,0 +1,1 @@
+function e(e){return`${e.getUTCFullYear()}-${String(e.getUTCMonth()+1).padStart(2,`0`)}-${String(e.getUTCDate()).padStart(2,`0`)}`}export{e as t};

@@ -1,0 +1,1 @@
+import{i as e}from"./jsx-runtime-Cx0BB4qO.js";import{t}from"./react-IDFlRUvQ.js";var n=e(t(),1);function r(e){typeof document<`u`&&(document.body.dataset.screen=e)}function i(e){(0,n.useEffect)(()=>{let t=document.body.dataset.screen;return document.body.dataset.screen=e,()=>{document.body.dataset.screen===e&&(document.body.dataset.screen=t)}},[e])}export{i as n,r as t};

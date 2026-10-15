@@ -1,0 +1,1 @@
+import{r as e}from"./jsx-runtime-Cx0BB4qO.js";var t=e({default:()=>n}),n=`/night-ledger-play/assets/ip_rin_half-DwHaeVeL.webp`;export{t as n,n as t};
