@@ -1,0 +1,1 @@
+import{o as e}from"./persona-DRVuseCJ.js";function t(t,n){return{seed:t,nickname:n?.trim()||e(t),cityId:`shanghai`,professionId:`nurse`,mode:`normal`,dreamId:`bookstore`}}export{t as oneTapInput};
